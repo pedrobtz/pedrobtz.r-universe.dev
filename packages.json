@@ -16,12 +16,24 @@
         "url": "https://github.com/pedrobtz/decimal"
     },
     {
+        "package": "imf.data",
+        "url": "https://github.com/pedrobtz/imf.data"
+    },
+    {
         "package": "mdbx",
         "url": "https://github.com/pedrobtz/mdbx"
     },
     {
+        "package": "openlineage",
+        "url": "https://github.com/pedrobtz/openlineage"
+    },
+    {
         "package": "qio",
         "url": "https://github.com/pedrobtz/qio"
+    },
+    {
+        "package": "quak",
+        "url": "https://github.com/pedrobtz/quak"
     },
     {
         "package": "zubin",
