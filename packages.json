@@ -1,0 +1,86 @@
+[
+    {
+        "package": "agecrypt",
+        "url": "https://github.com/pedrobtz/agecrypt"
+    },
+    {
+        "package": "azr",
+        "url": "https://github.com/pedrobtz/azr"
+    },
+    {
+        "package": "data.sketches",
+        "url": "https://github.com/pedrobtz/data.sketches"
+    },
+    {
+        "package": "decimal",
+        "url": "https://github.com/pedrobtz/decimal"
+    },
+    {
+        "package": "mdbx",
+        "url": "https://github.com/pedrobtz/mdbx"
+    },
+    {
+        "package": "qio",
+        "url": "https://github.com/pedrobtz/qio"
+    },
+    {
+        "package": "zubin",
+        "url": "https://github.com/pedrobtz/zubin"
+    },
+    {
+        "package": "zucbor",
+        "url": "https://github.com/pedrobtz/zucbor"
+    },
+    {
+        "package": "zucrypt",
+        "url": "https://github.com/pedrobtz/zucrypt"
+    },
+    {
+        "package": "zucsv",
+        "url": "https://github.com/pedrobtz/zucsv"
+    },
+    {
+        "package": "zuexact",
+        "url": "https://github.com/pedrobtz/zuexact"
+    },
+    {
+        "package": "zufast",
+        "url": "https://github.com/pedrobtz/zufast"
+    },
+    {
+        "package": "zufft",
+        "url": "https://github.com/pedrobtz/zufft"
+    },
+    {
+        "package": "zuhtml",
+        "url": "https://github.com/pedrobtz/zuhtml"
+    },
+    {
+        "package": "zujson",
+        "url": "https://github.com/pedrobtz/zujson"
+    },
+    {
+        "package": "zukomp",
+        "url": "https://github.com/pedrobtz/zukomp"
+    },
+    {
+        "package": "zumime",
+        "url": "https://github.com/pedrobtz/zumime"
+    },
+    {
+        "package": "zutoml",
+        "url": "https://github.com/pedrobtz/zutoml"
+    },
+    {
+        "package": "zuxlsx",
+        "url": "https://github.com/pedrobtz/zuxlsx"
+    },
+    {
+        "package": "zuxml",
+        "url": "https://github.com/pedrobtz/zuxml"
+    },
+    {
+        "package": "zuyaml",
+        "url": "https://github.com/pedrobtz/zuyaml"
+    }
+]
