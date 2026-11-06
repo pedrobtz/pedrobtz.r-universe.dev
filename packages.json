@@ -68,6 +68,10 @@
         "url": "https://github.com/pedrobtz/zuhtml"
     },
     {
+        "package": "zuid",
+        "url": "https://github.com/pedrobtz/zuid"
+    },
+    {
         "package": "zujson",
         "url": "https://github.com/pedrobtz/zujson"
     },
@@ -78,6 +82,10 @@
     {
         "package": "zumime",
         "url": "https://github.com/pedrobtz/zumime"
+    },
+    {
+        "package": "zuproto",
+        "url": "https://github.com/pedrobtz/zuproto"
     },
     {
         "package": "zutoml",
